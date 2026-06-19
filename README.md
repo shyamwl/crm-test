@@ -376,20 +376,6 @@ Replace the starter UI with the actual product UI. Do not keep setup checklists,
 
 Ask your agent to add Google OAuth through Better Auth while keeping email/password enabled. You will need Google OAuth credentials and production callback URLs.
 
-## Video Tutorial
-
-Watch the original walkthrough:
-
-[Agentic Coding Boilerplate Tutorial](https://youtu.be/zVZotTk6ZWU)
-
-Some details in older videos may differ from the current starter. This README is the source of truth for the current default workflow.
-
-## Support This Project
-
-If this starter kit helped you build something useful, you can support the project here:
-
-[Buy me a coffee](https://www.buymeacoffee.com/leonvanzyl)
-
 ## Contributing
 
 1. Fork this repository.
